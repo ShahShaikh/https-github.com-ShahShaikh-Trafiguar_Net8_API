@@ -1,0 +1,6 @@
+@Trafigura_Assessment_API_HostAddress = http://localhost:5240
+
+# GET {{Trafigura_Assessment_API_HostAddress}}/Index/
+Accept: application/json
+
+###
